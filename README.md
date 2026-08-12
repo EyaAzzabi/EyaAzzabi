@@ -31,8 +31,9 @@ work: I'd rather understand why a model behaves the way it does than watch a met
 up. Day to day I build LLM agents, RAG pipelines, and computer-vision systems; on my own
 time I go back to the statistics underneath them.
 
-**I'm looking for a research internship in AI/ML** — particularly anything involving
-[TOPIC 1] or [TOPIC 2].
+**I'm looking for a research internship in AI/ML** — especially where language models,
+computer vision, or statistical modelling are pointed at a real scientific problem
+rather than a product.
 
 ---
 
@@ -72,7 +73,6 @@ lost-and-found assistant using CLIP for image retrieval.
 - 🏢 Building AI backend services at **Mafrah** — LLM integration, data pipelines, APIs
 - 🎓 Finishing **JobReady**, my Master's graduation project
 - 🔬 Looking for a research internship for summer 2027
-- 📚 Reading about [WHAT YOU'RE ACTUALLY READING ABOUT]
 
 ---
 
