@@ -53,8 +53,19 @@ temperature (r = 0.9996). Component 2 was the Mediterranean's moderating effect
 **🦯 SenseMate.** An AI-powered device to assist visually impaired people, built as a
 social-entrepreneurship project with **Enactus FSB**. I worked on it as a project
 developer for 15 months, handling real-time object detection and identification with
-YOLO. Recognised at the Enactus National Exposition 2024.
+YOLO. Won the **Early Stage award** at the Enactus National Exposition 2024.
 `PyTorch` `YOLO` `IoT` `Computer Vision`
+
+**🏛️ ArchiGuide.** An AI assistant for architectural workflows. I built the floor-plan
+understanding and caption-generation models (dual-encoder CNNs, cross-attention, a
+transformer decoder), fine-tuned **Phi-3 Mini with LoRA** to extract requirements from
+client briefs in natural language, and helped integrate multimodal services for visual
+question answering and generated architectural sketches.
+`PyTorch` `LoRA` `Phi-3` `Transformers` `Computer Vision` `Generative AI`
+
+**📡 QoS Buddy.** An end-to-end AI platform for telecom operators to monitor, diagnose
+and optimise their networks. Fourth-year integrated project at ESPRIT, built with a team.
+`AI` `Network Analytics` `Full-stack`
 
 **🩺 [PCOS Prediction](https://github.com/EyaAzzabi/Pcos_Prediction)**
 Early detection of polycystic ovary syndrome from clinical and hormonal features.
