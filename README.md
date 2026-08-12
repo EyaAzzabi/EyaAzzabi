@@ -42,6 +42,15 @@ rather than a product.
 
 ### Featured work
 
+**💼 [JobReady](https://github.com/EyaAzzabi/jobready)** (Master's thesis)
+A B2B staffing platform that turns unstructured CVs into queryable representations,
+matches them semantically to roles, and simulates interviews with language models.
+Every CV is pseudonymised with Presidio and spaCy NER **before any model call**, so the
+LLM never sees who the candidate is. That implements GDPR Article 5(1)(c) in the
+pipeline rather than in a policy document. Matching runs on `text-embedding-3-small`
+vectors in pgvector by cosine similarity. 134-page thesis, defence autumn 2026.
+`GPT-4o` `pgvector` `Presidio` `FastAPI` `NestJS` `Privacy-preserving ML`
+
 **🌡️ [PCA of Tunisian Temperatures](https://github.com/EyaAzzabi/pca-tunisia-temperatures)**
 Given only twelve monthly averages per station and no geography at all, PCA
 reconstructed the two physical axes that govern Tunisian climate, explaining **98.4%**
