@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>AI &amp; Data Engineer</b>, based in Tunis, Tunisia<br>
-  I build AI systems that reach real users, then go back and study why they work.
+  Engineer by training, mathematician by instinct.<br>
+  I build AI systems and want to know why they work.
 </p>
 
 <p align="center">
@@ -49,9 +50,10 @@ temperature (r = 0.9996). Component 2 was the Mediterranean's moderating effect
 (r = 0.9893). Extends my bachelor's thesis, supervised by Prof. Chaouki Aouiti.
 `Python` `NumPy` `PCA`
 
-**🦯 SenseMate.** IoT assistive technology for blind and visually impaired people.
-Real-time object detection and identification with YOLO, built with **Enactus FSB**
-over 15 months as a social-impact project.
+**🦯 SenseMate.** An AI-powered device to assist visually impaired people, built as a
+social-entrepreneurship project with **Enactus FSB**. I worked on it as a project
+developer for 15 months, handling real-time object detection and identification with
+YOLO. Recognised at the Enactus National Exposition 2024.
 `PyTorch` `YOLO` `IoT` `Computer Vision`
 
 **🩺 [PCOS Prediction](https://github.com/EyaAzzabi/Pcos_Prediction)**
@@ -107,8 +109,9 @@ BSc Mathematics and Computer Science · *2021 to 2024*
 **Talan Tunisie** · AI Consultant Intern · *2025*
 Built intelligent agents for Connect'IS, an AI-driven sales platform.
 
-Outside the code: sponsorship team at **Enactus FSB**, **Soliya Connect Program** alumna,
-and speaker at **WYSE**.
+Outside the code: I co-founded the **first youth club in Morneg, Ben Arous**, worked on
+SenseMate as a project developer at **Enactus FSB**, and I'm a **Soliya Connect Program**
+alumna and a speaker at **WYSE**.
 
 ---
 
