@@ -63,12 +63,14 @@ client briefs in natural language, and helped integrate multimodal services for 
 question answering and generated architectural sketches.
 `PyTorch` `LoRA` `Phi-3` `Transformers` `Computer Vision` `Generative AI`
 
-**📡 QoS Buddy.** A multi-agent diagnostic platform for telecom operators. Four
+**📡 [QoS Buddy](https://qos-buddy.vercel.app)** (live demo)
+A multi-agent diagnostic platform for telecom operators. Four
 autonomous agents work the network in parallel: latency and SLA-breach prediction
 (Random Forest, **R² = 0.941**), trend and anomaly detection, congestion and capacity
 analysis, and external context enrichment. Role-based dashboards for executive and
-technical users, over roughly 8,000 records. Fourth-year integrated project at ESPRIT,
-built with a team.
+technical users, over roughly 8,000 records. Fourth-year integrated project at ESPRIT.
+A team of 6; I contributed across data fusion, model training, LLM integration, testing
+and deployment.
 `Multi-agent systems` `Random Forest` `Network Analytics` `Full-stack`
 
 **🩺 [PCOS Prediction](https://github.com/EyaAzzabi/Pcos_Prediction)**
