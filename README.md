@@ -63,9 +63,13 @@ client briefs in natural language, and helped integrate multimodal services for 
 question answering and generated architectural sketches.
 `PyTorch` `LoRA` `Phi-3` `Transformers` `Computer Vision` `Generative AI`
 
-**📡 QoS Buddy.** An end-to-end AI platform for telecom operators to monitor, diagnose
-and optimise their networks. Fourth-year integrated project at ESPRIT, built with a team.
-`AI` `Network Analytics` `Full-stack`
+**📡 QoS Buddy.** A multi-agent diagnostic platform for telecom operators. Four
+autonomous agents work the network in parallel: latency and SLA-breach prediction
+(Random Forest, **R² = 0.941**), trend and anomaly detection, congestion and capacity
+analysis, and external context enrichment. Role-based dashboards for executive and
+technical users, over roughly 8,000 records. Fourth-year integrated project at ESPRIT,
+built with a team.
+`Multi-agent systems` `Random Forest` `Network Analytics` `Full-stack`
 
 **🩺 [PCOS Prediction](https://github.com/EyaAzzabi/Pcos_Prediction)**
 Early detection of polycystic ovary syndrome from clinical and hormonal features.
