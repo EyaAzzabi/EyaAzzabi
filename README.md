@@ -7,6 +7,8 @@
 </p>
 
 <p align="center">
+  <a href="https://eyaazzabi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-eyaazzabi.github.io-111111?style=flat-square&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/eya-azzabi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:eyaazzabi04@gmail.com">
@@ -34,13 +36,40 @@ know *why* a model behaves the way it does than watch a metric climb. Day to day
 means LLM agents, RAG pipelines, and computer-vision systems. On my own time it means
 going back to the statistics underneath them.
 
-**I'm looking for a research internship in AI/ML**, especially where language models,
-computer vision, or statistical modelling are pointed at a real scientific problem
-rather than a product.
+**I'm looking for a 6-month AI/ML engineering internship from January 2027**, in Europe
+or Canada. The work I like best is the kind that ships and then has to keep working:
+retrieval systems whose recall you can quote, pipelines that survive their second run,
+models with error bars rather than a single flattering number.
 
 ---
 
 ### Featured work
+
+**⚽ [Scoutable](https://github.com/EyaAzzabi/scoutable)** (OPTO Lab internship, 2026)
+An AI decision-support system for football recruitment across **9,977 players** in 17
+under-scouted leagues. Player-DNA embeddings in pgvector, an XGBoost model pricing what
+a player *should* cost, and a ranking model blending fit, quality and value — a fix to
+its normalisation lifted mean quality **+0.172** with no role below league average. The
+assistant is a grounded RAG agent: it never writes SQL, routes each question to one of
+seven retrieval tools, cites every player by id, and fences untrusted note text against
+prompt injection. Source is private to the lab; the showcase has screenshots.
+`RAG` `pgvector` `XGBoost` `LLM agents` `NestJS` `Angular`
+
+**🔍 [rag-eval-lab](https://github.com/EyaAzzabi/rag-eval-lab)**
+Everyone building with LLMs has a RAG demo; few can state their retrieval recall. This
+measures it — BM25, dense vectors and rank fusion across three chunking strategies,
+scored against human relevance judgments with serving cost beside every quality number.
+Hybrid won everywhere (**nDCG@10 0.693**), and finer chunks turned out to help dense
+retrieval while *hurting* BM25 — the two curves cross. BM25 and every metric written
+from scratch.
+`FAISS` `BM25` `sentence-transformers` `Evaluation` `FastAPI`
+
+**🌍 [daily-climate-pipeline](https://github.com/EyaAzzabi/daily-climate-pipeline)**
+A pipeline built around the problems that only appear on the *second* run: the same day
+ingested twice, one source of ten failing, the API quietly returning nulls. Fourteen
+quality checks run **before** the load, so a blocking failure leaves the warehouse
+untouched. Runs itself every morning on GitHub Actions.
+`DuckDB` `Data quality` `GitHub Actions` `ETL`
 
 **💼 [JobReady](https://github.com/EyaAzzabi/jobready)** (Master's thesis)
 A B2B staffing platform that turns unstructured CVs into queryable representations,
@@ -102,7 +131,8 @@ lost-and-found assistant that uses CLIP for image retrieval.
 
 - 🏢 Building AI backend services at **Mafrah**: LLM integration, data pipelines, APIs
 - 🎓 Finishing **JobReady**, my Master's graduation project
-- 🔬 Looking for a research internship for summer 2027
+- 🔎 Looking for a **6-month AI/ML internship from January 2027** · Europe or Canada
+- 🌍 Portfolio: **[eyaazzabi.github.io](https://eyaazzabi.github.io/)**
 
 ---
 
