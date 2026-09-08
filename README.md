@@ -64,6 +64,17 @@ retrieval while *hurting* BM25 — the two curves cross. BM25 and every metric w
 from scratch.
 `FAISS` `BM25` `sentence-transformers` `Evaluation` `FastAPI`
 
+**🔬 [attention-explanation-lab](https://github.com/EyaAzzabi/attention-explanation-lab)**
+An independent reproduction of *Attention is not Explanation* (Jain & Wallace, NAACL
+2019), which tested BiLSTM, CNN and average encoders and **explicitly excluded
+self-attention**. The reproduction holds: Kendall **τ = 0.182** and **0.204** against
+the paper's 0.07–0.21 and 0.06–0.20. Extending it to the missing encoder, shuffling
+attention at random moves the prediction by **0.42** without contextualisation and by
+**0.0143** on a Transformer. A second extension reversed sign on the second corpus and
+the mechanism I proposed for it was tested and withdrawn — both are written up rather
+than deleted, along with the three bugs the tests caught.
+`PyTorch` `Reproducibility` `Interpretability` `pytest` `GitHub Actions`
+
 **🌍 [daily-climate-pipeline](https://github.com/EyaAzzabi/daily-climate-pipeline)**
 A pipeline built around the problems that only appear on the *second* run: the same day
 ingested twice, one source of ten failing, the API quietly returning nulls. Fourteen
