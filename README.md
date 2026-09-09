@@ -36,7 +36,7 @@ know *why* a model behaves the way it does than watch a metric climb. Day to day
 means LLM agents, RAG pipelines, and computer-vision systems. On my own time it means
 going back to the statistics underneath them.
 
-**I'm looking for a 6-month AI/ML engineering internship from January 2027**, in Europe
+**I'm looking for opportunities**, in Europe
 or Canada. The work I like best is the kind that ships and then has to keep working:
 retrieval systems whose recall you can quote, pipelines that survive their second run,
 models with error bars rather than a single flattering number.
