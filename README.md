@@ -48,7 +48,7 @@ models with error bars rather than a single flattering number.
 **🌉 [JISER · جسر](https://github.com/EyaAzzabi/Jiser)** (National hackathon « IA & Finances publiques », September 2026 · **finalist**) · [live app](https://eyaazzabi.github.io/Jiser/) · [demo videos](https://eyaazzabi.github.io/Jiser/videos/)
 An AI platform for Tunisian tax-reassessment disputes, linking the company that receives
 a notice to every level of the tax administration, from case officer to minister.
-Prototype built overnight (25–26 September 2026) with **Sarah Felah**, **Eya Rachdi** and
+Prototype built overnight (25–26 September 2026) with **Sarah Faleh**, **Eya Rachdi** and
 **Eya Idi**; ranked **2nd of 30** in the first round. Three complementary AIs: the exact
 procedural rules of the tax code (8 checks), XGBoost + SHAP to score each case
 (**AUC 0.84**, **+276 %** recovered when working 20 % of the backlog), and an LLM grounded
