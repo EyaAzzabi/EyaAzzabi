@@ -24,7 +24,9 @@
 
 I'm an **undergraduate engineering student at ESPRIT** (Data Science, graduating October
 2027). At the same time I'm completing a **Master's in Data Science** at the University
-of Carthage, and working full-time as an **AI & Backend Developer**.
+of Carthage. I've spent the past year building production AI systems: a completed
+contract as an **AI & Backend Developer** at Mafrah, a scouting platform I helped build
+during an internship at OPTO Lab, and most recently two hackathon wins in one week.
 
 I chose the second degree, and I fund it myself. I didn't want to pick between building
 things and understanding them, so I took the path that gives me both: engineering
@@ -36,10 +38,11 @@ know *why* a model behaves the way it does than watch a metric climb. Day to day
 means LLM agents, RAG pipelines, and computer-vision systems. On my own time it means
 going back to the statistics underneath them.
 
-**I'm looking for opportunities**, in Europe
-or Canada. The work I like best is the kind that ships and then has to keep working:
-retrieval systems whose recall you can quote, pipelines that survive their second run,
-models with error bars rather than a single flattering number.
+**I'm looking for a 6-month final-year engineering internship from January 2027**,
+anywhere in the world, Europe and Canada first. The work I like best is the kind that
+ships and then has to keep working: retrieval systems whose recall you can quote,
+pipelines that survive their second run, models with error bars rather than a single
+flattering number.
 
 ---
 
@@ -56,7 +59,17 @@ in **305 articles** through hybrid BM25 + vector retrieval, in French and Arabic
 Names and IDs are pseudonymised before any model call; data encrypted at rest.
 `FastAPI` `React` `XGBoost` `SHAP` `RAG` `Supabase` `n8n` `Privacy-preserving ML`
 
-**⚽ [Scoutable](https://github.com/EyaAzzabi/scoutable)** (OPTO Lab internship, 2026)
+**🥉 [X-Ray](https://github.com/EyaAzzabi/SupplyzPro-Smart-Operations-Award)** — 3rd place nationally, GOMYCODE x NVIDIA Real-World AI Impact Award, "Come. Build. With AI." Hackathon (27 Sep 2026)
+Most agent failures never throw an error — a tool call "succeeds" with an empty or wrong
+result, the agent smooths it over with a confident sentence, and the only trace is a
+wrong answer downstream. X-Ray validates evidence instead of counting exceptions,
+clusters failures by root cause, and ranks them by operational impact. **100%
+precision/recall** on synthetic cases; validated at **32% recall** on 78 real transcripts
+(tau-bench) across retail and airline domains. Team "Geeks," 5 people, parallel
+workstreams, sponsored by NVIDIA. [Official project page](https://hackathon.gomycode.com/onboarding/projects?project=65a0a6862cb0e47a4f59ed2af070a125).
+`FastAPI` `React` `TF-IDF/KMeans` `LLM-as-judge`
+
+**⚽ [Scoutable](https://github.com/EyaAzzabi/scoutable)** (OPTO Lab internship, completed 2026)
 An AI decision-support system for football recruitment across **9,977 players** in 17
 under-scouted leagues. Player-DNA embeddings in pgvector, an XGBoost model pricing what
 a player *should* cost, and a ranking model blending fit, quality and value — a fix to
@@ -152,9 +165,10 @@ lost-and-found assistant that uses CLIP for image retrieval.
 ### Currently
 
 - 🏆 **1st place nationally** at the hackathon « IA & Finances publiques » with **[JISER](https://github.com/EyaAzzabi/Jiser)** (29 September 2026)
-- 🏢 Building AI backend services at **Mafrah**: LLM integration, data pipelines, APIs
+- 🥉 **3rd place** (GOMYCODE x NVIDIA Real-World AI Impact Award) with **[X-Ray](https://github.com/EyaAzzabi/SupplyzPro-Smart-Operations-Award)** (27 September 2026)
 - 🎓 Finishing **JobReady**, my Master's graduation project
-- 🔎 Looking for a **6-month AI/ML internship from January 2027** · Europe or Canada
+- 🔎 Looking for a **6-month final-year engineering internship from January 2027** ·
+  open worldwide, Europe and Canada first
 - 🌍 Portfolio: **[eyaazzabi.github.io](https://eyaazzabi.github.io/)**
 
 ---
@@ -183,7 +197,10 @@ Master's in Data Science · *2024 to present, concurrent*
 **Université de Carthage, FSB**
 BSc Mathematics and Computer Science · *2021 to 2024*
 
-**Mafrah** (formerly WebFullContact) · AI & Backend Developer · *2025 to present*
+**Mafrah** (formerly WebFullContact) · AI & Backend Developer · *2025 to 2026*
+
+**OPTO Lab** · AI Engineering Intern · *2026*
+Built Scoutable, an AI recruitment decision-support platform for football scouting.
 
 **Talan Tunisie** · AI Consultant Intern · *2025*
 Built intelligent agents for Connect'IS, an AI-driven sales platform.
